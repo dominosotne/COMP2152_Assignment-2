@@ -19,3 +19,6 @@ Thumbs.db
 # Virtual environment
 venv/
 .env/
+
+# Submit AI Usage Declaration as PDF (aud.pdf), not the Word template
+AI Usage Declaration.docx
